@@ -1,4 +1,4 @@
-body{
+8body{
     margin: 0;
     padding: 0;
 }
@@ -97,7 +97,7 @@ body{
 /* CONTENT */
 
 .content{
-    height: 780px;
+    height: 880px;
     width: 100%;
     background-color: #272829;
     padding-top: 15px;
