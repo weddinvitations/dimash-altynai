@@ -135,7 +135,9 @@
 .p_name {
     font-size: 44px;
     color: white;
-    font-family: "Great Vibes", cursive;
+/*     font-family: "Great Vibes", cursive; */
+    font-family: "Dancing Script", cursive;
+    font-weight: bold;
     text-align: center;
     display: flex;
     justify-content: center;
